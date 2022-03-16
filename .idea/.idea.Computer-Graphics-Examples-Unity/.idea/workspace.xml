@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e19bda81-c5c9-4d5b-9172-5f722d3648fa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UnityURPShader" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,11 +29,26 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a0ef933b1aa54b668801ea864e4204fe13b600/72/7d46a47b/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a0ef933b1aa54b668801ea864e4204fe13b600/92/fdef3c77/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/DummyDamageable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/DumyProjectileImpact.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/AttackControllerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/ChargedPunchAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralPurpuseIndicator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerCameraManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerNotificationCenter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/UnityEvents/UnityEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/PunchAttackVFX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/ArchimedeanSpiral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/ArchimedeanSpiralG1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/ArchimedeanSpiralG2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/FermatSpiral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/HyperbolicSpiral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session10/Spirals/PolarConversionUtils.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session4/AttackController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session4/ShieldVFX.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerNotificationCenter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralPurpuseIndicator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@10.5.1/ShaderLibrary/UnityInput.hlsl" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -48,13 +73,19 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session3.1Exercise/Exercise1Mechanic.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerCameraManager.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/Input/InputHandler.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerAttackHandler.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerNotificationCenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayer.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralPurpuseIndicator.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session4/ShieldVFX.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session4/ShieldVFXGA.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Source/SessionSpecificScripts/Session4/AttackController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/AttackSolver.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/IAttackController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerAnimationController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/MOBAPlayer/MOBAPlayerAttackHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/ChargedPunchAttack.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/GameplayUtils/GeneralAttacks/AttackControllerBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Source/PunchAttackVFX.cs" />
     </changedPaths>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -66,15 +97,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="Discover.Launch.Via.Unity" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="rider.run.widget.enabled.cache" value="false" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.run.widget.enabled.cache&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath D:\Sergio\Projects\Unity\Universidad\Computer-Graphics-Examples-Unity -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="D:\Sergio\Projects\Unity\Universidad\Computer-Graphics-Examples-Unity" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -122,6 +169,17 @@
       <workItem from="1644066589233" duration="2629000" />
       <workItem from="1644182949524" duration="2632000" />
       <workItem from="1644189597358" duration="55000" />
+      <workItem from="1644371153568" duration="4094000" />
+      <workItem from="1644427154593" duration="7513000" />
+      <workItem from="1644602761956" duration="1001000" />
+      <workItem from="1645992761455" duration="960000" />
+      <workItem from="1646099530975" duration="794000" />
+      <workItem from="1646181842218" duration="694000" />
+      <workItem from="1646355240025" duration="3433000" />
+      <workItem from="1646488812836" duration="5137000" />
+      <workItem from="1646859047668" duration="8987000" />
+      <workItem from="1646953165385" duration="3756000" />
+      <workItem from="1647036504822" duration="5076000" />
     </task>
     <servers />
   </component>
@@ -141,9 +199,12 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
